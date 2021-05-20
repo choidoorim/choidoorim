@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-yellow"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB"/></a>
----👯 블로그 링크 https://choidr.tistory.com/
+#👯 블로그 링크 https://choidr.tistory.com/
