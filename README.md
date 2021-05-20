@@ -1,5 +1,6 @@
 ### 안녕하세요 훌륭한 개발자가 되고 싶은 최두림입니다😄
 #### 👯 블로그 https://choidr.tistory.com/
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoidoorim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=godotengine.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoidoorim)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
