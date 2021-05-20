@@ -4,6 +4,8 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=choidoorim&show_icons=true&hide_border=true)](https://github.com/choidoorim)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choidoorim&&show_icons=true&theme=onedark)]
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-yellow"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB"/></a>
 
