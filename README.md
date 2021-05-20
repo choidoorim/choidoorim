@@ -1,4 +1,5 @@
 ### 안녕하세요 훌륭한 개발자가 되고 싶은 최두림입니다😄
+### 👯 블로그 링크 https://choidr.tistory.com/
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoidoorim)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +21,3 @@ Here are some ideas to get you started:
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-yellow"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB"/></a>
-
-
-#👯 블로그 링크 https://choidr.tistory.com/
