@@ -6,6 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choidoorim&show_icons=true&theme=onedark)](https://github.com/choidoorim/github-readme-stats)
 
+<!--
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
