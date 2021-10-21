@@ -1,4 +1,4 @@
-### 안녕하세요 꾸준하게 성장하는 개발자 최두림입니다😄
+### Hi there👋😄
 #### 👯 블로그 https://choidr.tistory.com/
 
 
