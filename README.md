@@ -8,16 +8,16 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidoorim&layout=compact)](https://github.com/choidoorim/github-readme-stats) -->
 
 ## :wrench: SKILL
-#### :books: Language
+### :books: Language
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 
-#### :triangular_ruler: Backend
+### :triangular_ruler: Backend
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 
-#### :floppy_disk: Database
+### :floppy_disk: Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
-#### :office: Infra
+### :office: Infra
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS RDS-0078D2?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-E23237?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
 <!--
