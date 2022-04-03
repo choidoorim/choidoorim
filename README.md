@@ -7,11 +7,19 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choidoorim&show_icons=true&theme=onedark)](https://github.com/choidoorim/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidoorim&layout=compact)](https://github.com/choidoorim/github-readme-stats) -->
 
+## :wrench: SKILL
+#### :books: Language
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 
-<!--
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+#### :triangular_ruler: Backend
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+
+#### :floppy_disk: Database
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+
+#### :office: Infra
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS RDS-0078D2?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-E23237?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidoorim)](https://github.com/choidoorim/github-readme-stats)
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
