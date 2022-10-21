@@ -1,9 +1,4 @@
 ### Hi there👋😄
-<!-- #### 👯 블로그 https://choidr.tistory.com/ -->
-
-
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoidoorim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=godotengine.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
- -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choidoorim&show_icons=true&theme=onedark)](https://github.com/choidoorim/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidoorim&layout=compact)](https://github.com/choidoorim/github-readme-stats) -->
 <!--
@@ -28,10 +23,10 @@ https://simpleicons.org/
 ### :scissors: Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidoorim)](https://github.com/choidoorim/github-readme-stats)
-**shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoidoorim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=godotengine.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
